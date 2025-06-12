@@ -1,1 +1,1 @@
-Bad implementation of a very simple virtual machine for a stack language with fixed memory in Zig. Simply made to try out making a virtual machine for a language.
+Bad implementation of a very simple virtual machine for a stack language with fixed memory in Zig. Simply made to try out making a virtual machine for a language. I won't be adding any documentation for usage as I doubt anyone would like to use this but if you want to repurpose it or use it for yourself, go ahead.
